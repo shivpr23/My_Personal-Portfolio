@@ -19,7 +19,7 @@ const projects = [
     description: "A chess engine for a popular game dev engine.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "https://my-personal-portfolio-peach.vercel.app/",
-    Githublink: "https://github.com/shivpr23/My_Personal-Portfolio/.git",
+    Githublink: "https://github.com/shivpr23/My_Personal-Portfolio.git",
   },
   {
     title: "Weather Aap",
