@@ -18,8 +18,8 @@ const projects = [
     cardImage: "assets/images/project-page/My_Portfolio.png",
     description: "A chess engine for a popular game dev engine.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "https://saurabh-personal-portfolio-phi.vercel.app/",
-    Githublink: "https://github.com/Saurabh2862/Saurabh_personal_Portfolio.git",
+    Previewlink: "https://my-personal-portfolio-peach.vercel.app/",
+    Githublink: "https://github.com/shivpr23/My_Personal-Portfolio/.git",
   },
   {
     title: "Weather Aap",
